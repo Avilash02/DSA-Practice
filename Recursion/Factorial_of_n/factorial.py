@@ -30,14 +30,12 @@ def main():
           
             n = int(user_input)
             
-           
+            
             result_iter = factorial_iterative(n)
             result_recur = factorial_recursive(n)
             
             print(f"\n{n}! = Iterative: {result_iter}")
             print(f"{n}! = Recursive: {result_recur}")
-            
-            
             if n >= 0:
                 import math
                 math_result = math.factorial(n)

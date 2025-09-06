@@ -8,7 +8,7 @@ def is_palindrome(text):
 print("Palindrome Checker")
 print("=" * 40)
  
- 
+
 while True:
     user_input = input("\nEnter text to check (or 'quit' to exit): ")
     if user_input.lower() == 'quit':
