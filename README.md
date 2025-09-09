@@ -13,7 +13,7 @@ I am solving problems in Python/Java as part of my MCA journey.
 - so on..
 
 # 📅 Progress
-✅ 3/100 Problems Completed (will update weekly)
+✅ 9/100 Problems Completed (will update weekly)
 
 
 ---
